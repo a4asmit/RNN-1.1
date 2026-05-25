@@ -26,7 +26,7 @@ for t in range(len(x)):
     x_t = x[t]
 
     #RNN formula 
-    h_t = torch.tanh(W_x @ x_t + W_h @h_prev + b )
+    h_t = torch.tanh(W_x @ x_t + W_h @ h_prev + b )
 
     outputs.append(h_t)
     h_prev = h_t #carry forward 
