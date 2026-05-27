@@ -300,13 +300,6 @@ Should be: W_x = (hidden_size, input_size)
 ## Author
 
 **Asmit Verma**  
-B.Tech CSE, DSMNRU-IET Lucknow  
-Building AI systems, one commit at a time.  
-
-**GitHub:** S2XPhoenixX  
-**Date:** May 26, 2026  
-
----
 
 **Status:** ✅ Complete and working  
 **Next:** LSTM-1.5 (Day 2)  
